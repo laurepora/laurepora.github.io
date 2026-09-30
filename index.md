@@ -4,4 +4,6 @@ I am an economist at [Insee](https://insee.fr/fr/accueil), the French national s
 
 I study how family life shapes labor market outcomes and organizational dynamics. My recent work examines, for instance, the cultural roots of the child penalty, or how nurses’ parenthood affects hospital organization.
 
+I am currently the Deputy Editor in Chief of *Economie et Statistique / Economics and Statistics*.
+
 Before joining Insee, I worked at [Drees](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/), the statistical and research division of the French Ministry of Health and Social Affairs.
